@@ -19,19 +19,9 @@ msgstr ""
 "X-Crowdin-File-ID: 27\n"
 
 #. js-lingui-explicit-id
-#: src/emails/server-admin-access-changed.email.tsx
-msgid "Enabled"
-msgstr ""
-
-#. js-lingui-explicit-id
-#: src/emails/server-admin-access-changed.email.tsx
-msgid "Disabled"
-msgstr ""
-
-#. js-lingui-explicit-id
-#: src/emails/server-admin-access-changed.email.tsx
-msgid "Server administrator access changed"
-msgstr ""
+#: src/emails/test.email.tsx
+msgid "Test email"
+msgstr "Toets e-pos"
 
 #. js-lingui-explicit-id
 #: src/emails/warn-suspended-workspace.email.tsx
@@ -71,11 +61,6 @@ msgstr "As jy wil voortgaan om Twenty te gebruik, moet asseblief jou intekening 
 #: src/emails/warn-suspended-workspace.email.tsx
 msgid "Update your subscription"
 msgstr "Opdateer jou intekening"
-
-#. js-lingui-explicit-id
-#: src/emails/test.email.tsx
-msgid "Test email"
-msgstr "Toets e-pos"
 
 #. js-lingui-explicit-id
 #: src/emails/validate-approved-access-domain.email.tsx
@@ -169,6 +154,31 @@ msgid "This link is only valid for the next {duration}. If the link does not wor
 msgstr "Hierdie skakel is slegs geldig vir die volgende {duration}. Indien die skakel nie werk nie, kan jy die aanmeldverifiëringskakel direk gebruik:"
 
 #. js-lingui-explicit-id
+#: src/emails/server-admin-access-changed.email.tsx
+msgid "Enabled"
+msgstr ""
+
+#. js-lingui-explicit-id
+#: src/emails/server-admin-access-changed.email.tsx
+msgid "Disabled"
+msgstr ""
+
+#. js-lingui-explicit-id
+#: src/emails/server-admin-access-changed.email.tsx
+msgid "Server administrator access changed"
+msgstr ""
+
+#. js-lingui-explicit-id
+#: src/components/WhatIsTwenty.tsx
+msgid "What is Twenty?"
+msgstr "Wat is Twenty?"
+
+#. js-lingui-explicit-id
+#: src/components/WhatIsTwenty.tsx
+msgid "It's a CRM, a software to help businesses manage their customer data and relationships efficiently."
+msgstr "Dit is 'n CRM, 'n sagteware om besighede te help om hul kliëntedata en verhoudings doeltreffend te bestuur."
+
+#. js-lingui-explicit-id
 #: src/emails/clean-suspended-workspace.email.tsx
 msgid "Deleted Workspace"
 msgstr "Verwyderde Werkruimte"
@@ -192,16 +202,6 @@ msgstr "As jy Twenty weer wil gebruik, kan jy 'n nuwe werkruimte skep."
 #: src/emails/clean-suspended-workspace.email.tsx
 msgid "Create a new workspace"
 msgstr "Skep 'n nuwe werksruimte"
-
-#. js-lingui-explicit-id
-#: src/components/WhatIsTwenty.tsx
-msgid "What is Twenty?"
-msgstr "Wat is Twenty?"
-
-#. js-lingui-explicit-id
-#: src/components/WhatIsTwenty.tsx
-msgid "It's a CRM, a software to help businesses manage their customer data and relationships efficiently."
-msgstr "Dit is 'n CRM, 'n sagteware om besighede te help om hul kliëntedata en verhoudings doeltreffend te bestuur."
 
 #. js-lingui-explicit-id
 #: src/components/Footer.tsx
